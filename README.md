@@ -6,6 +6,9 @@ A sleek and responsive Weather App built with HTML, CSS, JavaScript (or React + 
 
 ![Weather App Preview](src/assets/preview.png)
 
+## 🔗 Live Preview
+
+👉 [View Live App](https://weather-app-lime-omega-94.vercel.app/)
 
 ## 🚀 Features
 
