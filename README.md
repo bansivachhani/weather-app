@@ -4,7 +4,8 @@ A sleek and responsive Weather App built with HTML, CSS, JavaScript (or React + 
 
 ## 📸 Preview
 
-![Weather App Preview](../weather-app/src/assets/preview.png) <!-- Replace this with your actual screenshot -->
+![Weather App Preview](src/assets/preview.png)
+
 
 ## 🚀 Features
 
